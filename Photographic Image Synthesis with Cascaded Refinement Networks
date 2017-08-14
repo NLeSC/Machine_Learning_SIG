@@ -1,0 +1,5 @@
+Generate images based on a segmentation map as input using a single feed forward network (so not a GAN).
+Dataset freely available after registering here: https://www.cityscapes-dataset.com/
+Code (Tensorflow) is alsow available on the project page.
+
+http://web.stanford.edu/~cqf/ImageSynthesis/
