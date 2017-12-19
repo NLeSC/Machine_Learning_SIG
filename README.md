@@ -7,7 +7,7 @@ Collection of topics to study and work on in the MLCV SIG.
 * Active learning ? ([wikipedia](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)))
 * [Transfer learning](https://github.com/escientists/SIG_Topics/blob/master/transfer_learning.md)
 
-## Upcoming sessions
+## Sessions
 
 | Date          | Topic                                      | Presenter  |
 | -------------:|:------------------------------------------ |:---------- |
