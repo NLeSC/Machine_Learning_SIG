@@ -17,4 +17,4 @@ Collection of topics to study and work on in the MLCV SIG.
 | 15-01-2018    | Experiences with Active Learning           | Erik       |
 | 29-01-2018    | Emotion recognition project                |Vincent & Ben |
 | *12-02-2018*  | *Cancelled (PI celebration day)*           |*N/A*       |
-| 26-02-2018    | TBA                                        |Marten Stol, Brain Creators     |
+| 26-02-2018    | Distilling the knowledge in a neural network |Marten Stol, Brain Creators     |
