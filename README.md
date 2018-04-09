@@ -9,7 +9,7 @@ Collection of topics to study and work on in the MLCV SIG.
 
 ## Sessions
 
-### Every second Monday (in 2018 these are the odd weeks) between 10:00 and 11:00 at Compass. 
+### Every second Monday (in 2018 these are the odd weeks) between 11:00 and 12:00 at Compass. 
 
 | Date          | Topic                                      | Presenter  |
 | -------------:|:------------------------------------------ |:---------- |
@@ -19,3 +19,9 @@ Collection of topics to study and work on in the MLCV SIG.
 | *12-02-2018*  | *Cancelled (PI celebration day)*           |*N/A*       |
 | 26-02-2018    | Distilling the knowledge in a neural network |Marten Stol, Brain Creators     |
 | 12-03-2018    | Explainable AI: On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation |Elena     |
+|26-03-2018| CNN architectures: ResNets |video lecture by Stanford University School of Engineering (suggested by Christiaan) |
+|09-04-2018| "Adversarial Attacks": tricking classifiers into misclassification by subtle adjustments to the input| Atze (topic suggested by Maarten S.) |
+|23-04-2018| Active learning for social sciences |Utrecht University (suggested by Adrienne)|
+|07-05-2018| ? | ?|
+|21-05-2018| *Public holiday* ||
+|04-06-2018| Machine learning in the "Dark Matter" project |Bob Stienen (suggested by Faruk)|
