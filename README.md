@@ -26,3 +26,5 @@ Collection of topics to study and work on in the MLCV SIG.
 |07-05-2018| Active learning for social sciences |Utrecht University (suggested by Adrienne)|
 |21-05-2018| *Public holiday* ||
 |04-06-2018| Machine learning in the "Dark Matter" project |Bob Stienen (suggested by Faruk)|
+|18-06-2018| Capsule networks video by Hinton|
+|02-07-2018| Capsule networks video by Geron| 
