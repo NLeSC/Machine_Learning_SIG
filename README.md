@@ -22,9 +22,9 @@ Collection of topics to study and work on in the MLCV SIG.
 | 12-03-2018    | Explainable AI: On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation |Elena     |
 |26-03-2018| CNN architectures: ResNets |video lecture by Stanford University School of Engineering (suggested by Christiaan) |
 |09-04-2018| "Adversarial Attacks": tricking classifiers into misclassification by subtle adjustments to the input| Atze (topic suggested by Maarten S.) |
-|23-04-2018| ? |?|
+|23-04-2018| Deep reinforcement networks |video lecture by Stanford university |
 |07-05-2018| Active learning for social sciences |Utrecht University (suggested by Adrienne)|
 |21-05-2018| *Public holiday* ||
 |04-06-2018| Machine learning in the "Dark Matter" project |Bob Stienen (suggested by Faruk)|
-|18-06-2018| Capsule networks video by Hinton|
-|02-07-2018| Capsule networks video by Geron| 
+|18-06-2018| Capsule networks | video lecture by Hinton |
+|02-07-2018| Capsule networks | video lecture by Geron |
