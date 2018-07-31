@@ -28,3 +28,5 @@ Collection of topics to study and work on in the MLCV SIG.
 |04-06-2018| Machine learning in the "Dark Matter" project |Bob Stienen (suggested by Faruk)|
 |18-06-2018| Capsule networks (tbc) | video lecture by Hinton |
 |02-07-2018| Capsule networks | video lecture by Geron |
+|16-07-2018| Spherical CNNs | ICLR'18 conference talk by Taco Cohen |
+|30-07-2018| PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation | CVPR'17 conference talk by Charles Qi |
