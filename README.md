@@ -1,5 +1,5 @@
 # SIG_Topics
-Collection of topics to study and work on in the MLCV SIG.
+Collection of topics to study and work on in the Machine Learning SIG.
 
 * [Advice on applying machine learning](https://github.com/escientists/SIG_Topics/blob/master/advice_on_applying_machine_learning.md)
 * [Curated list of most important papers](https://github.com/terryum/awesome-deep-learning-papers)
@@ -35,3 +35,4 @@ Collection of topics to study and work on in the MLCV SIG.
 |08-10-2018| Discussing McFly sprint and projects with machine learning| All |
 |05-11-2018| Discussing DL issues with Hine van Os from Leiden MC| All  |
 |19-11-2018| Delayed Impact of Fair Machine Learning| ICML 2018 conference talk|
+|03-12-2018| Discussing timeseries datasets for McFly|all|
