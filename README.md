@@ -11,6 +11,9 @@ Collection of topics to study and work on in the Machine Learning SIG.
 
 ### Every second Monday (in 2018 these are the odd weeks) between 11:00 and 12:00 at Compass. 
 
+History: Before 04-12-2017 we went through the Stanford CS231n course. Highly recommended, video lectures available on youtube. 
+
+
 | Date          | Topic                                      | Presenter  |
 | -------------:|:------------------------------------------ |:---------- |
 |04-12-2017|Deep learning in the Genomics GTCG project|Sonja|
