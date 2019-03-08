@@ -15,10 +15,10 @@ The idea is to list further material for a quick introduction to the necessary b
 
 ## Extra material (from HSE "Practical RL" course)
 The "Practical RL" course by HSE and coursera contains quite a lot of interesting links, materials, code, videos etc.
-The level of the course is somewhere between the 1st and 2nd Udemy/lazy-programmer RL course, so it covers a lot of the background in more detail, such as MDPs, Qlearning etc.).
+The level of the course is somewhere between the 1st and 2nd Udemy/lazy-programmer RL course, so it covers a lot of the background in more detail, such as MDPs, Qlearning etc.).  
 Course link: https://www.coursera.org/learn/practical-rl
 
-+ Corresponding githubg repo: https://github.com/yandexdataschool/practical_rl
++ Corresponding github repo: https://github.com/yandexdataschool/practical_rl
 Containing interesting notebooks, code, links etc. 
 
 ## Extra material (miscellaneous)
