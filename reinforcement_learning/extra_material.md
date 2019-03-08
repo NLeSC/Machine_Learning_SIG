@@ -1,4 +1,4 @@
-## Background material for advanced reinforcement learning course
+## Extra material for advanced reinforcement learning course
 
 ### Course information
 Udemy online course "Advanced AI: Deep Reinforcement Learning in Python".  
@@ -12,6 +12,7 @@ Next to general knowledge/experience with deep learning the course asks for hand
 
 The course contains a brief review section, but only enough to recap. 
 The idea is to list further material for a quick introduction to the necessary background knowledge here.
+But also add links to code examples, vidos, articles etc. that might be usefull during the course...
 
 ## Extra material (from HSE "Practical RL" course)
 The "Practical RL" course by HSE and coursera contains quite a lot of interesting links, materials, code, videos etc.
