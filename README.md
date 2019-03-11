@@ -36,3 +36,6 @@ Collection of topics to study and work on in the Machine Learning SIG.
 |05-11-2018| Discussing DL issues with Hine van Os from Leiden MC| All  |
 |19-11-2018| Delayed Impact of Fair Machine Learning| ICML 2018 conference talk|
 |03-12-2018| Discussing timeseries datasets for McFly|all|
+|14-01-2019| Discussing most prominent timeseries datasets for McFly|all|
+|28-01-2019| CNNs for the Dynaslum project |Berend|
+|11-03-2019| The unbalanced and noisy dataset problem in the Genomics GTCG project | Sonja Georgievska| 
