@@ -39,3 +39,4 @@ Collection of topics to study and work on in the Machine Learning SIG.
 |14-01-2019| Discussing most prominent timeseries datasets for McFly|all|
 |28-01-2019| CNNs for the Dynaslum project |Berend|
 |11-03-2019| The unbalanced and noisy dataset problem in the Genomics GTCG project | Sonja Georgievska| 
+|25-03-2019| Comparing mass spectra and gene clusters using machine-learning/NLP techniques | Florian Huber | 
