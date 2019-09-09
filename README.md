@@ -41,13 +41,13 @@ Collection of topics to study and work on in the Machine Learning SIG.
 |11-03-2019| The unbalanced and noisy dataset problem in the Genomics GTCG project | Sonja Georgievska| 
 |25-03-2019| Comparing mass spectra and gene clusters using machine-learning/NLP techniques | Florian Huber | 
 |08-04-2019| The Blue Action project |Yang Liu| 
-|06-05-2019| Discussin potential machine learning hackaton |Florian Huber|
+|06-05-2019| Discussing potential machine learning hackaton |Florian Huber|
 |20-05-2019| The mythos of model interpretability| Zachary Lipton video talk| 
 |03-06-2019| Disentangling Task Transfer Learning & Recurrent World Models Facilitate Policy Evolution |Best Papers CVPR2018  |
 |01-07-2019| The Lottery Ticket Hypothesis:  Finding Sparse, Trainable Neural Networks| Best paper  at ICLR 2019|
 |29-07-2019| Challenging common assumptions in the unsupervised learning of disentangled representations |Francesco Locatello ICLR |
 |12-08-2019| Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks |Yikang Shen (ICLR2019)|
-|09-09-2019| Bayesian Deep Learning | Marcin Mozejko (video talk)|
+|09-09-2019| Uncertainty estimation and Bayesian Neural Networks | Marcin Mozejko (video talk)|
 
 
 
