@@ -43,11 +43,16 @@ Collection of topics to study and work on in the Machine Learning SIG.
 |08-04-2019| The Blue Action project |Yang Liu| 
 |06-05-2019| Discussing potential machine learning hackaton |Florian Huber|
 |20-05-2019| The mythos of model interpretability| Zachary Lipton video talk| 
-|03-06-2019| Disentangling Task Transfer Learning & Recurrent World Models Facilitate Policy Evolution |Best Papers CVPR2018  |
+|03-06-2019| Disentangling Task Transfer Learning & Recurrent World Models Facilitate Policy Evolution |Best Papers CVPR2018|
+|03-06-2019| Deep learning in the Marin project |Meiert Grootes|
 |01-07-2019| The Lottery Ticket Hypothesis:  Finding Sparse, Trainable Neural Networks| Best paper  at ICLR 2019|
+|01-07-2019| Machine learning for the Rijksmuseum challenge | Adithya Vijaykumar|
+|01-07-2019| The Blue Action project |Yang Liu| 
 |29-07-2019| Challenging common assumptions in the unsupervised learning of disentangled representations |Francesco Locatello ICLR |
 |12-08-2019| Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks |Yikang Shen (ICLR2019)|
 |09-09-2019| Uncertainty estimation and Bayesian Neural Networks | Marcin Mozejko (video talk)|
+|23-09-2019| Impressions from the ECML19 conference |Florian Huber|
+|23-09-2019| Discussing future planning of the SIG |All|
 
 
 
