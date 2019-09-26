@@ -44,7 +44,7 @@ Collection of topics to study and work on in the Machine Learning SIG.
 |06-05-2019| Discussing potential machine learning hackaton |Florian Huber|
 |20-05-2019| The mythos of model interpretability| Zachary Lipton video talk| 
 |03-06-2019| a) Disentangling Task Transfer Learning & Recurrent World Models Facilitate Policy Evolution |Best Papers CVPR2018|
-|03-06-2019| b) Deep learning in the Marin project |Meiert Grootes|
+|| b) Deep learning in the Marin project |Meiert Grootes|
 |01-07-2019| a) The Lottery Ticket Hypothesis:  Finding Sparse, Trainable Neural Networks| Best paper  at ICLR 2019|
 |01-07-2019| b) Machine learning for the Rijksmuseum challenge | Adithya Vijaykumar|
 |01-07-2019| c) The Blue Action project |Yang Liu| 
