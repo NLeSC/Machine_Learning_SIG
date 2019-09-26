@@ -46,13 +46,13 @@ Collection of topics to study and work on in the Machine Learning SIG.
 |03-06-2019| a) Disentangling Task Transfer Learning & Recurrent World Models Facilitate Policy Evolution |Best Papers CVPR2018|
 || b) Deep learning in the Marin project |Meiert Grootes|
 |01-07-2019| a) The Lottery Ticket Hypothesis:  Finding Sparse, Trainable Neural Networks| Best paper  at ICLR 2019|
-|01-07-2019| b) Machine learning for the Rijksmuseum challenge | Adithya Vijaykumar|
-|01-07-2019| c) The Blue Action project |Yang Liu| 
+|| b) Machine learning for the Rijksmuseum challenge | Adithya Vijaykumar|
+|| c) The Blue Action project |Yang Liu| 
 |29-07-2019| Challenging common assumptions in the unsupervised learning of disentangled representations |Francesco Locatello ICLR |
 |12-08-2019| Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks |Yikang Shen (ICLR2019)|
 |09-09-2019| Uncertainty estimation and Bayesian Neural Networks | Marcin Mozejko (video talk)|
 |23-09-2019| a) Impressions from the ECML19 conference |Florian Huber|
-|23-09-2019| b) Discussing future planning of the SIG |All|
+|| b) Discussing future planning of the SIG |All|
 
 
 
