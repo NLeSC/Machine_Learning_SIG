@@ -53,7 +53,7 @@ Upcoming topics as well as suggestions of interesting material for future sessio
 |09-09-2019| Uncertainty estimation and Bayesian Neural Networks | Marcin Mozejko (video talk)|
 |23-09-2019| a) Impressions from the ECML19 conference |Florian Huber|
 || b) Discussing future planning of the SIG |All|
-
+|07-10-2019| Adversarial Machine Learning | Ian Goodfellow (ICLR 2019 keynote, video talk)|
 
 
 
