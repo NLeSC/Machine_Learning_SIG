@@ -5,9 +5,12 @@
 * Advice other scientist on feasibility regarding applying ML methods on their data
 
 ## Sessions
+### Every second Monday (currently these are the odd weeks) between 11:00 and 12:00 at Compass. 
 
-### Every second Monday (in 2018 these are the odd weeks) between 11:00 and 12:00 at Compass. 
+### Upcoming sessions:
+Upcoming topics as well as suggestions of interesting material for future sessions are organized here: https://github.com/NLeSC/Machine_Learning_SIG/projects/1
 
+### Past sessions:
 | Date          | Topic                                      | Presenter  |
 | -------------:|:------------------------------------------ |:---------- |
 |04-12-2017|Deep learning in the Genomics GTCG project|Sonja|
