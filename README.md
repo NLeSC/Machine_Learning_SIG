@@ -54,6 +54,6 @@ Upcoming topics as well as suggestions of interesting material for future sessio
 |23-09-2019| a) Impressions from the ECML19 conference |Florian Huber|
 || b) Discussing future planning of the SIG |All|
 |07-10-2019| Adversarial Machine Learning | Ian Goodfellow (ICLR 2019 keynote, video talk)|
-
+|21-10-2019| Discussing ML SIG contribution to eScience symposium. Creating list of all NLeSC ML projects. | All |
 
 
