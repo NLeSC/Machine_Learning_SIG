@@ -56,4 +56,4 @@ Upcoming topics as well as suggestions of interesting material for future sessio
 |07-10-2019| Adversarial Machine Learning | Ian Goodfellow (ICLR 2019 keynote, video talk)|
 |21-10-2019| Discussing ML SIG contribution to eScience symposium. Creating list of all NLeSC ML projects. | All |
 
-
+For latest info, please check here https://github.com/NLeSC/Machine_Learning_SIG/projects/1 
