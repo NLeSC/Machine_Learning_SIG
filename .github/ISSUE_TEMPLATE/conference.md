@@ -9,4 +9,4 @@ assignees: ''
 
 Website of conference:
 Location or virtual:
-Who is planning to go:
+Who is going:
