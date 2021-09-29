@@ -1,5 +1,5 @@
-# Find upcoming conferences here!
-Do you know of some conference with interesting ML content that is not on this list? Add it yourself or discuss it with sig leads. Updates can be done directly to main/master, or through a PR if you like.
+# Find upcoming events here!
+Do you know of some conference or workshop with interesting ML content that is not on this list? Add it yourself or discuss it with sig leads. Updates can be done directly to main/master, or through a PR if you like.
 
 | Conference title                                       | Dates         | Venue                  | Website                                    | Fee    | Who is going?      | Notes                                                       |
 |--------------------------------------------------------|---------------|------------------------|--------------------------------------------|--------|--------------------|-------------------------------------------------------------|
