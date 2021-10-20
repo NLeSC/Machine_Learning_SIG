@@ -1,7 +1,7 @@
 # Find upcoming events here!
 Do you know of some conference or workshop with interesting ML content that is not on this list? Add it yourself or discuss it with sig leads. Updates can be done directly to master, or through a PR if you like.
 
-| Conference title                         | Dates         | Venue                  | Website                                    | Fee    | Who is going?      | Notes |                                                      
+| Conference title                         | Dates         | Venue                  | Website                                    | Fee    | Attendees      | Notes |                                                      
 |-----------------------------------------|---------------|------------------------|--------------------------------------------|--------|--------------------|-------------|
 | NeurIPS 2021                            | 2021/12/6-14  | virtual                | https://nips.cc/                           |        |                    |    |                                                         
 | Nvidia GTC Nov 2021                     | 2021/11/8-11  | virtual                | https://www.nvidia.com/gtc/                | free   | chris?             |            |                                                 
