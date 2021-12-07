@@ -3,7 +3,8 @@ Do you know of some conference or workshop with interesting ML content that is n
 
 | Conference title                         | Dates         | Venue                  | Website                                    | Fee    | Attendees      | Notes |                                                      
 |-----------------------------------------|---------------|------------------------|--------------------------------------------|--------|--------------------|-------------|
-| ICIP 2022                            | 2022/10/16-19  | Bordeaux, France         | https://2022.ieeeicip.org/                 |        |                    |    |           
+| ICIP 2022                            | 2022/10/16-19  | Bordeaux, France         | https://2022.ieeeicip.org/                 |        |                    |    |
+| ECMWF Machine Learning Workshop         | 2022/3/29-4/1  | virtual         | https://events.ecmwf.int/event/294/     |        |                    | Earth sciences |
 | NeurIPS 2021                            | 2021/12/6-14  | virtual                | https://nips.cc/                           |        |                    |    |                                                         
 | Nvidia GTC Nov 2021                     | 2021/11/8-11  | virtual                | https://www.nvidia.com/gtc/                | free   |                    |            |                                                 
 | Samsung AI Forum 2021                   | 2021/11/1     | virtual                | https://www.sait.samsung.co.kr/saithome/event/saif2021.do | free       |                                                                                
