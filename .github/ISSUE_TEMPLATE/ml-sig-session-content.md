@@ -7,6 +7,7 @@ assignees: ''
 
 ---
 
-<description/abstract>
-<approximate duration>
-<other notes>
+- description/abstract:
+- approximate duration:
+- difficulty:
+- other notes:
