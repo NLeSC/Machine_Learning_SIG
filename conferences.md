@@ -4,6 +4,7 @@ Do you know of some conference or workshop with interesting ML content that is n
 | Conference title                         | Dates         | Venue                  | Website                                    | Fee    | Attendees      | Notes |                                                      
 |-----------------------------------------|---------------|------------------------|--------------------------------------------|--------|--------------------|-------------|
 | ICIP 2022                            | 2022/10/16-19  | Bordeaux, France         | https://2022.ieeeicip.org/                 |        |                    |    |
+| ICLR 2022                            | 2022/4/25-29  | virtual        | https://iclr.cc/Conferences/2022/  | 100 $ |    | |
 | ICT.open 2022                            | 2022/4/6-7  | Amsterdam (and online)        | https://www.ictopen.nl/  | 105-150 euro | Chris,   | Multiple AI tracks |
 | ECMWF Machine Learning Workshop         | 2022/3/29-4/1  | virtual         | https://events.ecmwf.int/event/294/     |        |                    | Earth sciences |
 | Nvidia GTC                           | 2022/03/21-24  | virtual         | https://www.nvidia.com/gtc/                | free   |                    |    |
