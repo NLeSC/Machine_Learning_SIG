@@ -3,8 +3,8 @@ Do you know of some conference or workshop with interesting ML content that is n
 
 | Conference title                         | Dates         | Venue                  | Website                                    | Fee    | Attendees      | Notes |                                                      
 |-----------------------------------------|---------------|------------------------|--------------------------------------------|--------|--------------------|-------------|
-| NCCV 2022                             | 2022/05/23-24   | Volendam               | https://sites.google.com/view/nccv-2022/home| EUR 160|                   |    |
 | ICIP 2022                            | 2022/10/16-19  | Bordeaux, France         | https://2022.ieeeicip.org/                 |        |                    |    |
+| NCCV 2022                             | 2022/05/23-24   | Volendam               | https://sites.google.com/view/nccv-2022/home| EUR 160|                   |    |
 | ICLR 2022                            | 2022/4/25-29  | virtual        | https://iclr.cc/Conferences/2022/  | 100 $ |    | |
 | ICT.open 2022                            | 2022/4/6-7  | Amsterdam (and online)        | https://www.ictopen.nl/  | 105-150 euro | Chris, Elena, Yang, Giulia  | Multiple AI tracks |
 | ECMWF Machine Learning Workshop         | 2022/3/29-4/1  | virtual         | https://events.ecmwf.int/event/294/     |        |                    | Earth sciences |
