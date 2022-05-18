@@ -3,6 +3,7 @@ Do you know of some conference or workshop with interesting ML content that is n
 
 | Conference title                         | Dates         | Venue                  | Website                                    | Fee    | Attendees      | Notes |                                                      
 |-----------------------------------------|---------------|------------------------|--------------------------------------------|--------|--------------------|-------------|
+| LOG conference| 2022/12/9-12 | Virtual | https://logconference.github.io/ | Free to attend | | |
 | ICIP 2022                            | 2022/10/16-19  | Bordeaux, France         | https://2022.ieeeicip.org/                 |        |                    |    |
 | NCCV 2022                             | 2022/05/23-24   | Volendam               | https://sites.google.com/view/nccv-2022/home| EUR 160|                   |    |
 | ICLR 2022                            | 2022/4/25-29  | virtual        | https://iclr.cc/Conferences/2022/  | 100 $ |    | |
