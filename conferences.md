@@ -4,6 +4,7 @@ Do you know of some conference or workshop with interesting ML content that is n
 | Conference title                         | Dates         | Venue                  | Website                                    | Fee    | Attendees      | Notes |                                                      
 |-----------------------------------------|---------------|------------------------|--------------------------------------------|--------|--------------------|-------------|
 | LOG conference| 2022/12/9-12 | Virtual | https://logconference.github.io/ | Free to attend | | |
+| NeurIPS 2022| 2022/11/28-12/2 | Virtual / New Orleans | https://neurips.cc/ | $200 online, $500 in person | | |
 | ICIP 2022                            | 2022/10/2-7 (virtual)16-19 (live)  | Bordeaux (online & live), France         | https://2022.ieeeicip.org/              | https://2022.ieeeicip.org/conference-registration/  $280 online, $1180 in person | Elena (probably online) Chris (online)                          |    |
 | Nvidia GTC                           | 2022/09/18-21  | Tel aviv / virtual       | https://www.nvidia.com/gtc/                |    |                    |    |
 | NCCV 2022                             | 2022/05/23-24   | Volendam               | https://sites.google.com/view/nccv-2022/home| EUR 160|                   |    |
