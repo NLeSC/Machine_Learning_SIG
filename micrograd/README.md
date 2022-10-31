@@ -13,6 +13,7 @@ The easiest is to open this notebook in Google Colab by clicking this button: [!
 If you prefer to run it locally, we suggest creating a conda environment and setting up jupyter with the following steps:
 ```
 conda create --name=micrograd python=3.9
+conda activate micrograd
 conda install jupyter
 conda install numpy
 conda install matplotlib
