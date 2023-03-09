@@ -4,6 +4,7 @@ Do you know of some conference or workshop with interesting ML content that is n
 | Conference title                         | Dates         | Venue                  | Website                                    | Fee    | Attendees      | Notes |                                                      
 |-----------------------------------------|---------------|------------------------|--------------------------------------------|--------|--------------------|-------------|
 | ICIP 2023 | 2023/10/8-11 | Kuala Lumpur | https://2023.ieeeicip.org/ | ? | | Internation Conference on Image Processing |
+| Nvidia GTC                           | 2023/03/20-23  | virtual       | https://www.nvidia.com/gtc/                | Free   |                    |    |
 | LOG conference| 2022/12/9-12 | Virtual | https://logconference.github.io/ | Free to attend | | |
 | NeurIPS 2022| 2022/11/28-12/2 | Virtual / New Orleans | https://neurips.cc/ | $200 online, $500 in person | | |
 | ICAI Day| 2022/11/16 | Hybrid | [https://logconference.github.io/](https://icai.ai/event/icai-day-fall-edition-2022/?utm_source=mailpoet&utm_medium=email&utm_campaign=icai-day-program-november+16) | Free to attend | | |
