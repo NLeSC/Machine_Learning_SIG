@@ -1,6 +1,6 @@
 # Find upcoming events here!
 Do you know of some conference or workshop with interesting ML content that is not on this list? Add it yourself or discuss it with sig leads. Updates can be done directly to master, or through a PR if you like.
-For a list of NLP conferences, check the [SIG NLP conferences page](https://github.com/NLeSC/Machine_Learning_SIG/blob/master/conferences.md).
+For a list of NLP conferences, check the [SIG NLP conferences page](https://github.com/nlesc-sigs/nlp-sig/blob/master/nlp-conferences.md).
 
 | Conference title                         | Dates         | Venue                  | Website                                    | Fee    | Attendees      | Notes |                                                      
 |-----------------------------------------|---------------|------------------------|--------------------------------------------|--------|--------------------|-------------|
