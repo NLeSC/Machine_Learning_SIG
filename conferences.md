@@ -5,6 +5,7 @@ For a list of NLP conferences, check the [SIG NLP conferences page](https://gith
 | Conference title                         | Dates         | Venue                  | Website                                    | Fee    | Attendees      | Notes |                                                      
 |-----------------------------------------|---------------|------------------------|--------------------------------------------|--------|--------------------|-------------|
 | ICIP 2023 | 2023/10/8-11 | Kuala Lumpur | https://2023.ieeeicip.org/ | ? | | Internation Conference on Image Processing |
+| Webinar: Distributed Deep Learning with Horovod | 2023/03/29 | virtual | https://www.egi.eu/event/webinar-distributed-deep-learning-with-horovod/ | Free | | 30′ talk + 15′ demo + 15′ Q&A; starts at 2PM CET |
 | Nvidia GTC                           | 2023/03/20-23  | virtual       | https://www.nvidia.com/gtc/                | Free   |                    |    |
 | LOG conference| 2022/12/9-12 | Virtual | https://logconference.github.io/ | Free to attend | | |
 | NeurIPS 2022| 2022/11/28-12/2 | Virtual / New Orleans | https://neurips.cc/ | $200 online, $500 in person | | |
