@@ -4,6 +4,6 @@ For a list of NLP conferences, check the [SIG NLP conferences page](https://gith
 
 | Title | Event date | Deadline | Venue | Website | Fee | Notes |                                                      
 |---|---|---|---|---|---|---|
-| EuCAIFCon | 2024/04/30 - 05/03 | 2024/01/14 | Amsterdam | https://indico.nikhef.nl/event/4875/ | | |
+| EuCAIFCon | 2024/04/30 - 05/03 | 2024/01/14 | Amsterdam | https://indico.nikhef.nl/event/4875/ | 450 - 550 euro | |
 
 
