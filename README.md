@@ -1,3 +1,5 @@
+(In 2026 the ML-sig has been transformed into the [AI-sig](https://github.com/nlesc-sigs/AI-sig). )
+
 ## Sessions
 ### Every 5th Thursday between 13:30 and 14:30 on Teams.
 The topic of the session is mailed around on the Monday before the session.
